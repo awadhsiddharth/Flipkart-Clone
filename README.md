@@ -27,9 +27,12 @@ To visit, link goto the link press ctrl+mouse arrow
 ![Alt Text](image.jpg)
 
 6. Code Blocks
-```python
-print("Hello, World!")
-
+```java
+class Bulb{
+    public static void main(String []args){
+System.out.println("Hello, World!")
+    }
+}
 
 
 
