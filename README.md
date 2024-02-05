@@ -14,9 +14,10 @@ Some Common features of Markdown include:
 `code`
 
 3. Lists
-*italic*
-**bold**
-`code`
+- Item 1
+- Item 2
+  - Subitem
+
 
 4. Links
 To visit, link goto the link press ctrl+mouse arrow
